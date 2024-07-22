@@ -17,7 +17,7 @@ const Projects = () => {
   };
 
   return (
-    <div className="px-4 md:px-8 mt-10">
+    <div className="px-4 md:px-8 mt-20">
       <h1 className="text-4xl font-bold  ">Projects we are proud of</h1>
 
       <p className=" my-6 max-w-2xl font-medium">

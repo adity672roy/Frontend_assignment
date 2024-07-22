@@ -24,7 +24,7 @@ const ProjectSection = () => {
   return (
     <section className="w-full h-full bg-[#F2F4F7] ">
       <div className="container mx-auto py-20">
-        <h1 className="text-4xl font-bold px-4 md:px-8 ">
+        <h1 className="text-4xl font-bold px-4 md:px-8 pb-4 ">
           Developed more than <span className="text-[#80A948]">100</span> <br />{" "}
           projects in <span className="text-[#80A948]">15</span> industries
         </h1>

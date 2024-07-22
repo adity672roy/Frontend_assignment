@@ -2,12 +2,12 @@ import Image from "next/image";
 import React from "react";
 
 const footerDetails = [
-  { id: 1, icon: "/call.png ", title: "Contact nums", desc: "+91 0000000000" },
-  { id: 2, icon: "/mail-footer.png ", title: "Gmail", desc: "demo@gmail.com" },
-  { id: 3, icon: "/place.png ", title: "Address", desc: "Mumbai, India" },
+  { id: 1, icon: "/call.png", title: "Contact nums", desc: "+91 0000000000" },
+  { id: 2, icon: "/mail-footer.png", title: "Gmail", desc: "demo@gmail.com" },
+  { id: 3, icon: "/place.png", title: "Address", desc: "Mumbai, India" },
   {
     id: 4,
-    icon: "/message.png ",
+    icon: "/message.png",
     title: "Leave a request",
     desc: "Leave a request",
   },
